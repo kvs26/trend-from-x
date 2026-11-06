@@ -1,4 +1,4 @@
 interface:
   display_name: "X Idea Scout"
   short_description: "Find shareable product opportunities from X"
-  default_prompt: "Use $x-idea-scout to research fresh X conversations and recommend shareable website or app ideas that fit my saved goals."
+  default_prompt: "Use $x-idea-scout to research fresh X conversations and recommend shareable website or app ideas based on my current request."

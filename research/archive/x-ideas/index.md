@@ -1,8 +1,8 @@
 # X idea research index
 
-## Founder context
+## Historical run context
 
-Preferences live in [the skill's founder profile](../../../.agents/skills/x-idea-scout/references/founder-profile.md). Read it before a new run; use current user instructions when they differ. Direction choices are per run. Target: at least USD 5,000 cumulative revenue over six months, with some profit desired; web preferred, first release within a week.
+At the time of these runs, the discussed target was at least USD 5,000 cumulative revenue over six months, with some profit desired, websites preferred, and a first release within a week. This archived index records those earlier sessions. Future research follows the user's current request; these past preferences and candidates do not restrict a fresh scout.
 
 ## Runs
 

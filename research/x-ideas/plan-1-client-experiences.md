@@ -1,8 +1,16 @@
 # Plan 1 — Client-paid branded games and experiences
 
-Last researched: **2026-11-05, Asia/Kolkata**, starting around 15:57 IST. Direction: playful experiences. Mode: investigate/revisit. This is the single active research report; append dated findings here on subsequent runs.
+Last researched: **2026-11-06, Asia/Kolkata**. Direction: playful experiences combined with useful board-game discovery. Mode: investigate/revisit. This is the single active research report; preserve dated findings here on subsequent runs.
 
-## Decision and honest verdict
+## Latest position — November 6
+
+The founder proposed narrowing Plan 1 to board-game cafés, shops, and events, drawing on their existing website, Which Expansion. The most promising new hypothesis is **a venue-branded board-game challenge/passport**, with demo-night campaigns as a close alternative. Players participate in the venue's physical games, share progress or invite friends, and follow a relevant event or store destination. This is a proposed paid campaign service, not a selected implementation or a proven business.
+
+There are concrete venue precedents and a current X shop request about choosing a demo game. There is still **no verified buyer willing to purchase our exact offer**. Generic QR recommenders already have free and inexpensive competitors. The specific PinchPop camera mechanic remains parked.
+
+The supplied search exports show early international search traffic focused on expansion buying. They do not establish a large local audience, revenue, or traffic from Pinterest/Instagram. Read the [November 6 investigation and analytics](#november-6-board-game-venues-and-which-expansion) for evidence, candidate comparisons, and the next test. The November 5 findings below remain historical context.
+
+## Initial investigation — November 5
 
 **Plan 1 is selected:** a client pays us to make a small branded browser game or interactive campaign. The client supplies the initial audience through its social account, mailing list, website, or event. We earn a project fee. No particular customer segment, game, price, or implementation has been selected.
 
@@ -142,3 +150,139 @@ Queries generally excluded retweets and used `until:2026-11-06` as an exclusive 
 - Do not treat hypotheses, vendor claims, posted budgets, or closed briefs as observed purchases.
 - Do not automatically update root `IDEA_DIRECTIONS.md`. The user must explicitly ask to change that separate directions file.
 - Do not build, send outreach, publish, spend, or install an implementation harness solely because this report recommends a test.
+
+## November 6: Board-game venues and Which Expansion
+
+**User steering:** Explore the intersection of client-paid playful campaigns and board-game cafés, shops, and events. The founder owns [Which Expansion](https://whichexpansion.com/), reports some traffic, and recently began posting on Pinterest and Instagram. They explicitly said the opportunity need not be limited to expansions. This selects an investigation, not a product or build. The founder supplied seven Google Search Console CSVs and one Bing performance CSV during the research.
+
+### What the existing site contributes
+
+Inspected the homepage, Wingspan expansion guide, methodology, and affiliate disclosure. The homepage lists 100 games and 647 expansions checked. The [Wingspan guide](https://whichexpansion.com/wingspan/expansions/) has ownership selections, player-count and experience filters, a share-link control, prerequisite notes, comparisons, and store links. The [methodology](https://whichexpansion.com/methodology/) says the editorial order is fixed and selections filter it. The [disclosure](https://whichexpansion.com/disclosure/) says store commissions do not affect that order.
+
+These are relevant content, curation, and product-execution assets. They do not amount to a complete venue inventory, live copy-availability system, or event audience. A café's actual games, staff recommendations, and upcoming schedule would still need to be supplied and checked. A paid campaign must remain clearly separate from independent editorial rankings.
+
+### Search exports: what is actually established
+
+Sources were read locally without changing them. Google uses its export's reporting dates, not the researcher's local timezone; the source calendar is retained here. The [Google documentation](https://support.google.com/webmasters/answer/17011259) explains the reporting timezone and omitted/anonymized queries.
+
+| Source / period | Calculated result | Implication |
+| --- | --- | --- |
+| Google daily chart, Sep 28–Nov 3, 2026; 37 rows | **94 clicks, 5,232 impressions, 1.80% aggregate CTR** | Early search traffic exists. These are search clicks, not unique visitors or total sessions. The export ends before Nov 6. |
+| Latest seven exported Google days, Oct 28–Nov 3 | 43 clicks / 1,821 impressions, versus 30 / 2,012 in Oct 21–27 | Recent clicks increased in a small sample. This is not a stable growth forecast. |
+| Google devices | Mobile 61 clicks; desktop 31; tablet 2. Mobile share **64.9%** | A proposed experience should work comfortably on phones. This does not establish acceptance of camera controls. |
+| Google countries | US 15 clicks, Canada 11, Netherlands 8, UK 6; 31 countries with at least one click | International reach across small counts. No city-level audience or concentration around a particular venue is established. |
+| Google pages | 76 of 94 clicks reached paths ending in `/expansions/`; Dune: Imperium and Cthulhu: Death May Die each had 6 clicks | Existing demand is closely connected to expansion research. A broad café entertainment audience cannot be assumed. |
+| Google visible queries | 513 rows totaling only **20 clicks / 1,558 impressions** | Visible examples concern buying/ranking/comparing expansions. Most chart clicks have no query disclosed in this export. Do not classify the unseen searches. |
+| Bing daily overview, Oct 1–Nov 3, 2026; 34 rows | **1 click, 49 impressions, 2.04% aggregate CTR** | Another early discovery signal. Too little data to infer a useful trend or compare channel quality. |
+
+Google query examples include “dune imperium expansions,” “cthulhu death may die expansions,” and “viticulture bordeaux vs tuscany.” A targeted scan did not find a visible café/shop/event-intent query. That is a finding about the disclosed sample, not proof that none of the undisclosed searches had such intent.
+
+**Reconciliation and limits:** Google Chart, Countries, and Devices each sum to 94 clicks and 5,232 impressions. Pages sum to 94 clicks and 5,465 impressions; page aggregation can count impressions differently from property aggregation, as [Google explains](https://support.google.com/webmasters/answer/7576553). Do not replace the chart total with the page sum. Product snippets show 4 clicks / 303 impressions as a subset, not additional search traffic. The filters say Web text-based and Last 3 months, but the supplied daily rows span only the dates above. Neither engine export supplies revenue, affiliate orders, total users, social traffic, email subscribers, or actual venue attendance. Do not add engine clicks and call them unique visitors.
+
+**Strategic interpretation:** Which Expansion is currently useful as relevant content, credibility, and a small testing channel. A venue campaign should initially use the venue's existing customers and channels. Selling a café advertising exposure to this site's audience would require substantially more evidence of scale and geography. A shop campaign aimed at choosing what to try or buy is closer to the observed search intent than an unrelated arcade promotion.
+
+Local source files supplied by the founder:
+
+- [Google chart](/Users/i42492/Downloads/whichexpansion.com-Performance-on-Search-2026-11-06/Chart.csv), [countries](/Users/i42492/Downloads/whichexpansion.com-Performance-on-Search-2026-11-06/Countries.csv), and [devices](/Users/i42492/Downloads/whichexpansion.com-Performance-on-Search-2026-11-06/Devices.csv).
+- [Google pages](/Users/i42492/Downloads/whichexpansion.com-Performance-on-Search-2026-11-06/Pages.csv), [queries](/Users/i42492/Downloads/whichexpansion.com-Performance-on-Search-2026-11-06/Queries.csv), [filters](/Users/i42492/Downloads/whichexpansion.com-Performance-on-Search-2026-11-06/Filters.csv), and [search appearance](</Users/i42492/Downloads/whichexpansion.com-Performance-on-Search-2026-11-06/Search appearance.csv>).
+- [Bing overview](/Users/i42492/Downloads/whichexpansion.com_SearchPerformanceOverview_All_11_6_2026.csv).
+
+### X findings: specific needs, with limits
+
+Used the signed-in Chrome search UI, starting with recent café discussions and adapting to events, software, game choice, challenges, and explicit development/promotion needs. Ten query variants were completed. Three promising original threads and their visible context were read; the Remis profile was also inspected. Counts are November 6 snapshots.
+
+| Source | Observation | What it supports |
+| --- | --- | --- |
+| [Remis Arcane Exchange, Nov 3](https://x.com/remisarcaneexch/status/2117368294827315700) | The shop asks people to choose the next board-game demo-table title. Original showed 2 replies, 1 like, about 40 views. One reply is another developer promoting a game; that is not independent customer demand. | A real, current event-selection/engagement task. It does not establish a need for new software, an unfilled event, or budget to hire us. A poll may solve it adequately. |
+| [Remis demo-night promotion, Nov 2](https://x.com/remisarcaneexch/status/2117309593965445510) | A defined hosted session with staff teaching games. Search result showed 1 like / 89 views. | An existing distribution occasion. Same operator as the prior row, so not independent corroboration. |
+| [Dimitar, Nov 5](https://x.com/bukv_nez/status/2118078180011430029) | Describes a local café teaching a different game weekly and people attending to meet others. Original showed 1 reply, 2 likes, about 31 views. Some parent posts were restricted. | An attendee's anecdote about recurring discovery/social value. Venue identity, attendance, and payment willingness are unverified. |
+| [Supanova, Nov 5](https://x.com/SupanovaExpo/status/2118283361873793303) | Promotes tabletop demos and learn-to-play activities. Original showed 2 likes / about 597 views. An adjacent organizer post promotes its existing event app. | Current organizer investment in demos, not a request to buy our service. A large expo with an app is a poor first one-week client scope. |
+
+The [Remis profile](https://x.com/remisarcaneexch) links to `remisae.com`, describes the Muscatine shop, and showed 45 followers. Its [official website](https://www.remisae.com/) and business listings corroborate the business. This is a relevant conversation to understand, not a confirmed sales prospect or permission to contact it.
+
+Counterevidence matters: a [café-app practice project](https://x.com/gouravasija24/status/2110353728918503684) is explicitly a developer learning exercise, not a customer commission. Searches around passports/bingo/10×10 returned mostly unrelated games, promotions, and fitness challenges. A diet-app account's café story was not treated as a verified owner complaint. No inspected X post offered to pay for the exact recommended campaign.
+
+### Strongest first-party venue examples
+
+**Rook Room: activity-based bingo.** Its [January 2026 campaign](https://therookroom.com/event/rook-room-resolution-bingo-2026/) gave visitors a paper card; staff stamped completed activities and a completed line earned a drink. The campaign is explicitly over. It establishes a venue's published use of activity/reward mechanics, not measured retention or demand for digitizing the card. Paper is a strong competing solution.
+
+**Rook Room: paid recurring league.** Its [current Season 2 page](https://therookroom.com/signature-events/board-game-league-weekly-competition/) advertises eight teams of four, six game nights plus opening/closing events, USD 65 registration, staff-recorded scores, and sheets assigning players to tables. Published dates match late 2026. This is a concrete paid activity with repeat visits. Actual registrations, profit, administrative pain, and software budget remain unknown. At capacity, 32 × USD 65 would be USD 2,080 gross season revenue before staffing, rewards, and other costs; a large software fee could be hard to justify.
+
+**Rook Room: demo-to-purchase promotion.** The [events listing](https://therookroom.com/events/) advertises November 7 Game Store Day demos with 5% off games played. This directly connects physical play to a store purchase. It is too near to propose delivering a new one-week campaign for that date. A future recurring occasion would be the realistic test.
+
+**The 15% Board Game Café: QR recommendations already exist.** Its [own games page](https://www.15percentbgcafe.com/our-games/) says customers can scan a QR, answer questions, and get suggestions, while still asking staff for help. It also lists games and expansions, updated October 16, 2026. This validates the workflow and weakens any novelty claim for a generic café picker. No implementation price or outcome is published.
+
+**BAGFest: a physical discovery passport.** The [organizer's page](https://singlitstation.squarespace.com/bagfest2026) advertises a Read & Play Passport with activity stamps, rewards, and booth discounts. It is a books-and-games festival precedent, not proof of sales or demand for a digital passport. The existing paper format must be included in any comparison.
+
+**TokenCon: publisher support for real play.** Its [FAQ](https://tabletop.events/conventions/tokencon-2026/pages/frequently-asked-questions) describes Play-to-Win entries connected to physical games and publisher-provided copies. That shows promotional support in kind, not a sponsor agreeing to pay our fee. Parts of the page contain an old 2025 deadline despite its 2026 context, so use it as a mechanism precedent rather than a fully fresh operational brief.
+
+A [recent board-game café discussion](https://www.reddit.com/r/boardgames/comments/1w8mvxv/desired_board_game_cafe_amenities/) independently asks for clearer recommendations, menus, and help with large libraries. These are self-reported opinions, not owner budget commitments. They corroborate the selection problem more than an appetite for an extra digital arcade game.
+
+### Alternatives checked
+
+| Alternative | Verified public offering | Consequence |
+| --- | --- | --- |
+| [GameLedger](https://www.gameledger.io/) / [pricing](https://www.gameledger.io/pricing) | QR game finder, library and bookings. The current pricing page lists a Free plan containing the QR finder and Pro at USD 29/month. Older search snippets saying all pricing is unlaunched are stale. | A basic QR picker is a weak paid product proposition. Our service would need useful curation/campaign delivery beyond the software feature. The demo café is labeled a demo, not a verified customer. |
+| [GameShelf](https://www.gameshelfapp.com/) | Advertises a free tier up to 50 games, a finder, and paid operational tiers from USD 49/month. | Further overlapping supply. Website demo numbers are not customer-adoption evidence. |
+| [Ludoya](https://www.ludoya.com/for/venues) | Free venue/event/community layer and paid operational tools; tickets, collections, and game-table planning are covered. | Avoid building a new event-management platform or assuming listing events is a market gap. Published usage counts are the vendor's claims. |
+| [SideQuest](https://www.sidequest.bingo/for/tourism) | Browser-based branded activity passports, advertised from EUR 199 one time, with customizable squares and QR distribution. Verified in Chrome when web retrieval failed. | Direct adjacent competition for a generic digital passport. The possible differentiator is venue-specific board-game campaign design and delivery, which remains untested. Its example participant count is not used as adoption proof. |
+| Printed bingo/passport + Instagram poll + existing booking link | Demonstrated by actual venue/organizer campaigns above. | The first baseline. A digital layer must earn its added cost and staff effort. |
+
+The idea is not an empty market. Which Expansion content and founder-led setup could make a small service worth testing, but neither is yet a proven advantage.
+
+### Shortlist within Plan 1
+
+All names and prices below are working hypotheses. No customer has agreed to them. No complete product brief has been approved.
+
+| ID / status | Offer and buyer | Player journey / sharing | Revenue and one-week scope |
+| --- | --- | --- | --- |
+| **P008 / investigate — Board-game discovery passport** | Café/shop pays for one branded two-to-four-week campaign encouraging actual play and return visits. **Primary recommendation to test.** | Scan → choose from the venue's curated games → complete three small real-world challenges → staff confirms progress → share a progress card or invite a friend for the next visit. | Tentative USD 199 first pilot / USD 349 standard campaign. One venue, 3–5 tasks, a small approved game list, mobile pass link, staff confirmation, one revision, and basic reporting. Roughly 24–30 hours for a bounded first version. |
+| **P009 / investigate — Pick our next demo night** | Shop or café pays for a short interactive campaign tied to an existing learn-to-play event and stock. Closest fit to the Remis request and expansion-buying audience. | Answer a few questions or vote among 3–5 actual games → invite the existing friend group → follow the shop's booking link → try the game → optional relevant store link. | Tentative USD 149–249 for one campaign, with client-approved content and existing booking/checkout. Roughly 18–26 hours. A simple poll may already be sufficient. |
+| **P010 / watch — League season page and team cards** | Venue with a paid league buys a branded season page, shareable team cards, schedule, and manually updated standings. | Players see their team's progress, share a card, invite substitutes/friends, and register for the next season through the existing venue process. | Tentative USD 199–349 per small season. Roughly 24–30 hours if rules, score entry, and schedules are fixed; full pairing, tournament formats, and disputes would exceed this scope. Score accuracy and support make it a riskier first offer. |
+
+**Why P008 leads:** it uses an activity the venue already values, with precedents for staff stamps and rewards. Progress gives players a reason to return or invite their existing group. It offers a more specific creative campaign than a generic picker, while keeping us within client-paid delivery. This is moderate confidence in the workflow's relevance and low confidence in willingness to pay us or incremental sales.
+
+P009 is the simpler alternative if the founder prefers a quick event-marketing service. P010 has a clear paying end activity but more operational responsibility and a tight possible buyer budget. Do not combine all three into the first build.
+
+**PinchPop's role:** retain the ideas of a short understandable challenge, visible progress, and friend sharing. A webcam popping mechanic has no demonstrated special benefit here. A board-game venue's real games can provide the play; the website can support discovery, progress, and the next visit. Which Expansion's name need not restrict client campaigns to expansions.
+
+### P008 example, responsibilities, and economics
+
+Hypothetical venue: a shop/café wants more repeat weekday visits. We jointly choose three tasks such as trying a cooperative game, joining a hosted demo, and returning for a second game session. Staff approve the tasks and any fixed perk. The initial digital pass highlights a small set of games the venue actually owns. It links to an existing event or store page where relevant. Friends can receive an invite and participate together. No performance, discount, or purchase result is guaranteed.
+
+The venue provides the first audience, approved assets, campaign rules, games, staff time, and any perk. We supply campaign design/configuration, the web experience, QR/print assets, one revision, hosting within an agreed duration/usage allowance, and reporting. The founder handles owner conversations and publication. No outreach has been sent.
+
+Start without public photo uploads, a new ticket/payment system, POS integration, real-time stock or table inventory, automatic prize draws, camera tracking, or a general editor. First-week feasibility depends on approved content, a usable mobile flow, and a simple staff-confirmation process. Existing editorial content can help, but unfamiliar titles still require client curation. An external catalog/API integration is not a first-pilot requirement.
+
+At USD 349, 15 standard campaigns would total **USD 5,235 gross** over six months; this is target arithmetic, not expected sales. The earlier cost scenario leaves roughly USD 4,393 before labor/tax at that revenue, using explicitly unverified budget allowances. If initial delivery plus repeat adaptations take 114 hours and sales take another 60, valuing 174 hours at USD 20 consumes USD 3,480, leaving about USD 913 before tax and other costs. Actual customer count, delivery effort, and sales effort could be much worse. A one-venue pilot is learning, not evidence of a scalable margin.
+
+The venue's economics need their own calculation: compare our fee plus its reward/staff costs with additional contribution from visits or purchases. Stamps, redemptions, and already-planned visits are not automatically incremental revenue. A paper campaign that performs as well with less effort may be the right solution.
+
+### Cheapest useful next test
+
+1. Discuss P008 versus the simpler P009; no implementation selection is assumed. Choose one buyer situation, not all cafés/shops/events at once.
+2. The founder speaks with five operators already running recurring demos, challenges, or leagues. Ask about their last actual campaign, cost, audience, manual work, results, and next planned occasion. Explicitly compare paper cards, social polls, existing software, and doing nothing.
+3. Prepare one storyboard using a consenting operator's real small game list and event. Show it to about ten relevant players or groups; check whether they understand it, want to participate, and invite another person without being forced. Which Expansion can supply a small invitation surface; current search volume is insufficient for a dependable statistical A/B test.
+4. Continue toward a separate-folder build brief only if a buyer agrees to a concrete paid pilot, supplies the audience/assets, and accepts a workable staff process. If players like the concept but owners cannot name an outcome worth paying for, change the offer. If digital adds no value over a printable card/poll, offer the simpler delivery or pass on the software.
+5. For a pilot, agree a short campaign window and a comparison with the venue's ordinary promotion. Track completed tasks, actual invited-player participation, verified return visits, attended bookings or attributable purchases where available, staff minutes, and fulfillment effort. Small samples and differing events limit causal claims. Repeat purchase by the venue is more meaningful than compliments or share-button clicks.
+
+**Current conclusion:** a credible niche worth a bounded customer test, with better concrete workflow evidence than the original generic café/PinchPop pitch. We have not discovered a verified ready-to-pay X buyer, established an underserved software category, or demonstrated that a digital campaign beats a simple promotion. No site changes, product build, external messages, spending, or root direction-file edits were performed.
+
+### November 6 search log and coverage
+
+Queries below used the visible X search interface; they generally excluded retweets, ended at `until:2026-11-07`, and used Latest after checking Top for the first café query. Selected result lists were scrolled. English filters were used where broad multilingual/name matches created noise.
+
+| Query wording, before date/retweet filters | Window / inspected result |
+| --- | --- |
+| `("board game cafe" OR "board game café")` | Oct 23 onward; mostly operator promotion, multilingual name matches, and unrelated stories. |
+| `("board game cafe" OR "boardgame cafe") ("choose" OR "recommend" OR "software" OR "events")` | Jan 1 onward; attendee weekly-learning anecdote, reservation advice, event promotion. |
+| `"board game" ("passport" OR "bingo")` | Jan 1 onward; predominantly unrelated games and commentary. |
+| `("board game" OR "boardgame") ("learn to play" OR "demo night")` | Oct 1 onward; Remis request/promotion and Supanova programming. |
+| `"board game" ("decide" OR "choosing")` | Oct 1 onward; mostly unrelated commentary and makers, no qualified buyer. |
+| `("board game cafe" OR "boardgame cafe") ("app" OR "website" OR "recommendations")` | Through Nov 6 without a start bound; practice app and unrelated posts, no verified paid requirement. |
+| `("boardgame" OR "board game") "10x10"` | Jan 1 onward; no relevant board-game challenge purchase need. |
+| `("boardgames" OR "boardgaming") ("bingo" OR "10x10")` | Through Nov 6; mainly game releases/community promotion. |
+| `"10x10challenge"` | Through Nov 6; older fitness content, not relevant player proof. |
+| `("boardgames" OR "board game") ("looking for" OR "need") ("website" OR "marketing")` | Jan 1 onward; noisy unrelated results, no qualified campaign buyer. |
+
+X was useful for specific current conversations, but insufficient on its own to establish paying demand. Official venue sites, pricing pages, organizer pages, a clearly labeled Reddit discussion, the live founder site, and locally supplied search exports provided corroboration and counterevidence. No claim of a fast-growing X trend is made. Search omissions, restricted parent posts, inaccessible pages, unaudited vendor claims, and small analytics samples remain material limits.
