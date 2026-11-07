@@ -1,8 +1,18 @@
-# Plan 1 — Client-paid branded games and experiences
+# Board-game product scouting and earlier client campaigns
 
-Last researched: **2026-11-06, Asia/Kolkata**. Direction: playful experiences combined with useful board-game discovery. Mode: investigate/revisit. This is the single active research report; preserve dated findings here on subsequent runs.
+**Archived: 2026-11-07, Asia/Kolkata. Status: passed.** The user chose to leave the game-development direction. P011 (cooperative heist) and P012 (short strategy challenge) are dropped; neither is selected for implementation or further investigation. Do not carry this direction into future scouting unless the user explicitly reopens it. No replacement direction has been selected.
 
-## Latest position — November 6
+Last researched: **2026-11-06, Asia/Kolkata**. The research and recommendations below are preserved as historical context, including the earlier venue campaigns and analytics. This report is no longer active; the archive decision above supersedes its recommendation and selection language.
+
+## Historical request — broader board-game products
+
+The user rejected the emphasis on small promotional add-ons with free substitutes and clarified that Which Expansion was supplied for information, not as a constraint or distribution premise. Reopen product selection beyond client campaigns, cafés, and software utilities. Do not use that site's traffic, content, or audience to rank these new concepts. The founder profile was removed at the user's request and must not be recreated.
+
+The strongest new proposals are **P011: an original split-information cooperative heist game** and **P012: an original short strategy-challenge game**. Recommend investigating P011 first for a clear group purchase and friend-invitation mechanism. Both are creative product hypotheses supported by adjacent paid categories, not discoveries of an untouched market or validated demand for our exact game. No implementation has been selected.
+
+Read the [product reset and new concepts](#november-6-product-reset-after-user-feedback). The earlier passport recommendation below is superseded as the active recommendation.
+
+## Earlier November 6 position — venue campaigns
 
 The founder proposed narrowing Plan 1 to board-game cafés, shops, and events, drawing on their existing website, Which Expansion. The most promising new hypothesis is **a venue-branded board-game challenge/passport**, with demo-night campaigns as a close alternative. Players participate in the venue's physical games, share progress or invite friends, and follow a relevant event or store destination. This is a proposed paid campaign service, not a selected implementation or a proven business.
 
@@ -26,7 +36,7 @@ There is useful historical evidence that clients commission this work. The most 
 - The webcam interaction in P001/PinchPop attracted attention in adjacent demos, but this run found no specific customer demand for that mechanic. Keep it optional rather than making every pitch depend on it.
 - Historical buyer briefs give stronger commercial evidence than likes on playful demos. They point toward a defined occasion, supplied branding, a short session, and an agreed deliverable.
 - Cheap competing services already exist. A logo reskin alone is a weak reason to choose us. Creative fit, dependable delivery, and a useful campaign outcome need testing.
-- Earlier reports and their original candidate history are preserved in the [first shortlist](../archive/x-ideas/2026-11-05-playful-experiences.md), [brand-promotion research](../archive/x-ideas/2026-11-05-playful-brand-promotion.md), and [historical index](../archive/x-ideas/index.md). Their pending-selection language describes the earlier discussion, not the current decision.
+- Earlier reports and their original candidate history are preserved in the [first shortlist](2026-11-05-playful-experiences.md), [brand-promotion research](2026-11-05-playful-brand-promotion.md), and [historical index](index.md). Their pending-selection language describes the earlier discussion, not the current decision.
 
 ## X evidence inspected in this run
 
@@ -286,3 +296,85 @@ Queries below used the visible X search interface; they generally excluded retwe
 | `("boardgames" OR "board game") ("looking for" OR "need") ("website" OR "marketing")` | Jan 1 onward; noisy unrelated results, no qualified campaign buyer. |
 
 X was useful for specific current conversations, but insufficient on its own to establish paying demand. Official venue sites, pricing pages, organizer pages, a clearly labeled Reddit discussion, the live founder site, and locally supplied search exports provided corroboration and counterevidence. No claim of a fast-growing X trend is made. Search omissions, restricted parent posts, inaccessible pages, unaudited vendor claims, and small analytics samples remain material limits.
+
+## November 6: Product reset after user feedback
+
+### Scope and change in judgment
+
+The founder wants stronger, more specific board-game community products. Small QR promotions, polls, passports, and basic league pages have not met that standard. Their website is background information only. Earlier Plan 1 selection no longer limits this exploration to selling promotional work to businesses.
+
+The previous approach put too much weight on easy implementation and an immediate client fee. For this run, distinguish an ambitious product from its first test: a week can produce a narrow playable prototype without establishing that a complete commercial game can be designed, polished, and tested in that week.
+
+The new proposals sell original entertainment. Their value would come from game design, puzzles, social interaction, and authored content. A paid game can compete in a category containing free games, but a new UI or browser delivery alone does not create an advantage. Neither proposal has verified product-specific payment intent.
+
+### Fresh evidence and counterevidence
+
+| Source checked November 6 | What is established | Limits |
+| --- | --- | --- |
+| [The Past Within's official Steam listing](https://store.steampowered.com/app/1515210/The_Past_Within/) | A paid cooperative puzzle game based on different information/perspectives and communication. The listing showed 3,926 English reviews at 94% positive, plus 84 recent reviews at 90% positive. | Reviews are not a sales/revenue count. This is an established studio's game, not evidence that our first game will perform similarly. Regional pricing varied; no US price was inferred. |
+| [Eleven Puzzles' free-game explanation](https://elevenpuzzles.com/support/faq/why-is-unsolved-case-free/) | The publisher explicitly describes its complete free Unsolved Case as an introduction to its other games. | Supports a free introduction followed by separate paid content; it does not supply a conversion rate or revenue. |
+| [Parallel Lab's official browser edition](https://elevenpuzzles.com/web-games/parallel-lab/) | Offers a paid team license for a split-information cooperative game; 2–6 people play in two teams, without installation. The publisher recommends larger devices over smartphones. | Direct competition. Browser delivery, team payment, and split information already exist. A possible four-individual-role, phone-first format is a design hypothesis, not a verified market gap. The price did not load, so no amount was adopted. |
+| [Sleuth Night](https://sleuthnight.com/) | Advertises no-print phone character links and a USD 29 one-time purchase covering the party. | An existing adjacent product, not a new opportunity we discovered. Listed price and vendor descriptions are not observed transactions. |
+| [PlotTwisty](https://plottwisty.com/) | Advertises free AI-generated live mysteries for up to five players; paid Pro is marked coming soon with pricing TBA. | A generic AI murder-mystery generator or no-prep claim would duplicate existing supply. Do not recommend that as the differentiator. No quality or revenue was independently tested. |
+| [Postmark Games' Voyages](https://www.postmarkgames.com/voyages) and [store page](https://www.postmarkgames.com/product-page/voyages) | Original replayable roll-and-write content is offered at GBP 5, including multiple maps and campaign material. Its design supports shared inputs and individual choices. | Evidence of a paid-content format, not our conversion rate, an empty niche, or a verified sales total. |
+| [Railroad Ink Challenge's official Steam listing](https://store.steampowered.com/app/1592740/Railroad_Ink_Challenge/) | A paid strategy game with additional expansions, shared-seed asynchronous challenges, and daily/monthly rankings. The listing showed 90 reviews, 83% positive. | An established licensed game. A daily leaderboard or same-seed challenge is not novel on its own. Our game would need original mechanics and content. |
+
+These sources were reviewed for publicly stated gameplay and commercial models. We did not play or audit their games, buy them, or verify private sales figures.
+
+### X observations from this reset
+
+Used live signed-in Chrome search with both Top and Latest where useful. Four completed query variants covered recent board-game wishes, Railroad Ink challenges, broad co-op recommendations, and a focused The Past Within recommendation search. Three relevant original threads and visible replies were read. Query results contained substantial irrelevant text matches; no claim of an exhaustive survey or fresh trend is made.
+
+- [Amelia, October 19, 2026](https://x.com/amelia_tweetz/status/2112171340778414528): asks for late-opening, alcohol-free social places involving conversations and board games. Original showed 628 replies, 252 reposts, 3,093 likes, and about 204,255 views. Replies identify existing venues and question the economics. This is broad social interest, not a request for a new app or evidence of ticket purchases. The [reply about needing to bring friends](https://x.com/amwilson_opera/status/2112292233030623253) showed 3 replies, 4 likes, and about 337 views. That is a clue for a hosted-play service, not a reason to return automatically to café promotions.
+- [A Railroad Ink invitation, August 23, 2025](https://x.com/ckayerawlings/status/1958975056606109941): a player explicitly asks other people to download the game and challenge them. Original showed 1 reply, 2 likes, 2 bookmarks, and about 792 views. It supports the existence of friend invitations around strategy play. It is historical and does not establish a current trend or payment intent for us.
+- [Benjaninja, June 13, 2024](https://x.com/ItsBenjaninja/status/1801308295921340755): describes enjoying The Past Within with a spouse while apart, using different device types. Original showed 1 reply, 1 repost, 22 likes, 1 bookmark, and 1,643 views; the publisher replied. It is an actual described use case, not a verified purchase record or current demand spike.
+
+The strongest commercial evidence in this reset comes from existing paid entertainment products, rather than a new X buyer request. Do not relabel these concepts as “requested on X.”
+
+### P011 / investigate — Four-person cooperative heist
+
+**Working name:** Heist Night. No brand/name availability check has been performed.
+
+**Audience and promise:** Small groups who enjoy cooperative deduction, escape games, and tabletop-style teamwork. Open one browser link and play an original mission together. Target a 30–45-minute finished mission after testing; friends may be at one table or communicating remotely.
+
+**Proposed experience:** Four players have individually necessary roles. The Navigator sees a building layout; the Lookout sees patrol schedules; the Hacker sees the lock/security interface; the Planner sees objectives and constraints. The group must combine this information and make linked choices to enter, retrieve the target, and escape. Each role must have meaningful actions; simply dividing a PDF into four screens would not fulfill this promise. A spoiler-free result card records the group's route, outcome, and mishaps.
+
+These are original proposed design elements, not implemented mechanics or a claim that nobody offers similar heist games. The key design test is whether four individually necessary roles create enjoyable communication without one player solving everything or others waiting. Start with authored, internally consistent puzzles. Do not make endless generated stories the initial value proposition.
+
+**Who pays and what they buy:** One host buys a finished mission for an illustrative **USD 15 per group**, covering the other players. A short standalone introduction could be free; additional missions are paid separately. This is a price hypothesis, not a validated quote. The purchase is the adventure/puzzles, not a scorecard, organizer feature, or advertising slot. A subscription is not required initially.
+
+**Sharing and first users:** The host must invite friends to play. Afterward, the group can share a spoiler-free result and invite a different group to another mission. Invitations inside an existing group do not automatically create new purchasing groups. Recruit the first few complete groups through relevant cooperative-game/escape-puzzle communities and personal conversations, respecting their participation rules. The founder performs posting/outreach; agents can prepare a short gameplay demonstration and materials. No reach from Which Expansion is assumed.
+
+**First test and ambition:** A first-week prototype could contain one vault, three linked puzzles, four roles, and a 10–15-minute complete loop. Estimate roughly 25–35 focused hours if the puzzle design and device/session work cooperate. A polished 30–45-minute commercial mission would require additional content and repeated human group tests; allow roughly another two to four weeks as a planning hypothesis, not a delivery commitment. A larger product could become a series of original missions and campaigns. Do not start by building a generic game generator or platform for every tabletop genre.
+
+**Economics and uncertainty:** 334 purchases × USD 15 = USD 5,010 gross. This is goal arithmetic, not an acquisition forecast. At an illustrative 5% payment/refund allowance, USD 150 initial assets/tools, and USD 150 total hosting allowance, about USD 4,460 remains before labor and tax. These are unverified budget placeholders; actual provider fees, support, refund rates, and art/audio work are unknown. Designing new missions may dominate costs. Runtime generation is not required for an authored first mission.
+
+**Cheapest validation:** Storyboard or paper-test the linked roles with a few real groups before producing extensive art or a full story. Then have about five independent groups play a small browser prototype without the creator teaching them. Observe completion, whether every role participates, hint dependence, spontaneous invitations, and requests for another mission. Ask for a concrete purchase/preorder for a defined full mission once the demonstration is reviewable. Continue only if the play itself works and some groups commit to buying; do not use compliments as proof of a USD 5,000 business. These are screening steps for a small sample, not a market estimate.
+
+**Judgment:** Recommended first creative concept to discuss. Clearer paid unit than the earlier promotional add-ons; genre demand is supported, but the exact design, fun, differentiation, price, and acquisition remain unvalidated. No build selection is inferred.
+
+### P012 / investigate — A short original strategy challenge
+
+**Working concept:** A compact original game for people who enjoy engine building, placement, drafting, and optimizing a board. Example design prompt: a small town, five consequential actions, limited workers/resources, and several competing ways to score. Players receive the same starting situation and compare choices/results through a link. The actual rules and scoring still need to be designed and tested.
+
+**Product scope:** A complete small game with interesting choices, initially played in roughly 3–5 minutes. A daily/weekly shared scenario can help comparison and return visits. A larger product can add authored campaign boards and different strategic situations. A one-week test could use one mechanic and a few checked scenarios; it is not a promise of a balanced content library in a week.
+
+**Buyer and value:** Players pay an illustrative USD 9 for a pack of new boards/scenarios after a free sample. Optional private comparisons support the experience; they are not the main item being sold. The paid value must be new enjoyable game content. Postmark's priced maps and Railroad Ink's paid game/expansions establish formats, not demand for our mechanics. Existing free daily puzzles remain substantial competition.
+
+**Distribution, effort, and money:** Share a score/board outcome and a same-start challenge link; the recipient can play without coordinating a live session. Recruit board gamers who actually enjoy optimization rather than a general trivia audience. Estimate 20–30 hours for a rough first mechanic, with additional time for balance, scenario creation, and human playtests. At USD 9, 556 pack purchases would yield USD 5,004 gross before costs. Whether enough people return and pay for more scenarios is the main commercial uncertainty. A generated scenario must be checked for validity and interest; a solver must not be claimed to prove optimality unless actually implemented and verified.
+
+**Judgment:** Stronger match to quick competitive sharing, but lower confidence in paid conversion than a whole-group adventure. This is an original game-design bet, not a novel daily-puzzle platform. Test replay, friend participation, and a paid pack before building an archive/subscription system.
+
+### Other directions screened
+
+- **Hosted board-game tables for strangers:** a potentially meaningful service around scheduled, taught, compatible play, with payment per seat. [Timeleft](https://timeleft.com/) demonstrates organized social gatherings and [the X conversation](https://x.com/amelia_tweetz/status/2112171340778414528) gives adjacent social interest. This would require actual venues, hosts, local density, no-show handling, and founder operations. It is not a software-only route and is not promoted to a build candidate without a concrete operator/city test.
+- **Generic league/statistics platform:** [Board Game League](https://boardgameleague.io/) already advertises teams, preferences, scores, handicaps, and Discord features in indexed first-party text. Its direct web fetch was JavaScript-only; no pricing or adoption was verified. Existing supply weakens a basic league-tracker pitch. It does not establish every possible richer game-season experience is solved.
+- **Generic AI rules tutor:** [Dized's B2B offering](https://dized.com/b2b/) already covers interactive tutorials, digital rules, publisher tools, and additional digital content. A generic chatbot or tutorial site has not demonstrated a sufficient gap here.
+- **Basic prototype/playtest software or pledge dashboard:** the search surfaced full products such as [Prototable](https://prototable.gg/pricing) and [Crowdfunder](https://crowdfunder.theboardgamesfamily.com/). No unmet paid workflow was established. They are not being offered as fresh discoveries.
+- **Generic no-prep AI murder mystery:** directly overlapped by PlotTwisty and paid offerings such as Sleuth Night. New names or themes alone are insufficient evidence of an opportunity.
+
+### Decision status and limits
+
+P011 is the recommendation for discussion; P012 is the quick-play alternative. Both need creative design and real play/payment evidence. No “killer opportunity” or empty market was found on X. The improvement over earlier proposals is a complete experience with a named buyer and a unit they can purchase, not demonstrated revenue certainty. A new game's originality and quality cannot be established by a search engine.
+
+Keep earlier findings as history rather than treating them as founder preferences. The website and supplied analytics were not used to select these concepts. No profile was recreated, no root direction entry was edited, and no game implementation or external outreach was performed.
