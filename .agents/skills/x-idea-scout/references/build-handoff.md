@@ -10,6 +10,8 @@ Make the brief understandable in a fresh session without access to this chat or 
 
 Capture the target user and promise, evidence links, why now, smallest user journey, features excluded from the first release, sharing behavior, concrete earning method, first-user plan, effort and cost assumptions, major dependencies, acceptance criteria, and the validation/stop plan. Scope the first usable launch to one week, accounting for setup, verification, and deployment. State what would prevent that schedule and how scope could shrink. Mark assumptions explicitly. Include draft launch content when requested or useful; the user publishes it.
 
+When the selected idea is a close alternative or functional replica, preserve that choice in the brief. Name the reference products and the core workflows to match, the customers to reach, and the acquisition and revenue assumptions to test. Do not add novelty or extra features merely to make the idea different; optional differences belong only where they improve the chosen plan.
+
 ## Optional implementation resources
 
 Sources reviewed on 2026-11-05; check current upstream instructions and locally available tools before use. They are optional resources, not installed dependencies of this skill.
