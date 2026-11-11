@@ -1,0 +1,691 @@
+{
+  "date": "2026-11-10",
+  "timezone": "Asia/Kolkata",
+  "categories": [
+    2,
+    6
+  ],
+  "unique_accounts": 38,
+  "next_account": null,
+  "accounts": [
+    {
+      "order": 7,
+      "category": 2,
+      "name": "Riley Brown",
+      "handle": "rileybrown",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Explicit cloud video-rendering pain and stated willingness to pay thousands/month; Oct 17 IST /rileybrown/status/2111194687495090508. Replies recommend Runpod; Riley reports trying it successfully. Repeated request Nov 10 /rileybrown/status/2119925981972717999; providers described as sloppy and token-inefficient. raea.io and Vork mentioned in replies; competitors rather than validated buyers.",
+        "Podcast discovery via full transcripts; Nov 3 IST /rileybrown/status/2117339927398789220; Exa original /ExaAILabs/status/2115491116485402773; original official blog exa.ai/blog/podcast-search. Jon Cheney asks for which 20 minutes are worth time /cheneypiano/status/2117351408856948863; Beth also asks which API.",
+        "Remote podcast recording reliability: /rileybrown/status/2117755898189804024 Nov 4 IST responds to /RobHoffman_/status/2117739640501227838 asking for less-buggy Riverside. /RobHoffman_/status/2117820094973919678 wants recording/storage rather than extra AI.",
+        "Agent auditability: Oct 21 /rileybrown/status/2112925843123024109 quotes Sriram request for knowing which agent changed shared email/calendar data. Original quoted post URL unresolved. Updates/coordinator request /rileybrown/status/2112774708504510724 quotes older @kr0der Oct 3 prompt workaround.",
+        "Content privacy: Oct 19 post says best workflow demos contain sensitive data. Direct URL needs recovery from captured DOM map. Potential synthetic demo/redaction opportunity, hypothesis only.",
+        "Creator launch-video workflows: Nov 9 IST /rileybrown/status/2119651130963537996; open-source free video editor interest /rileybrown/status/2118964018178338938 Nov 7; demand for paid editor not established.",
+        "Requested cybersecurity basics checklist /rileybrown/status/2113349799852535887 Oct 23 IST; supplied checklist /Miller_KM/status/2114056567813554199 Oct 24 (not independent paid demand).",
+        "NotebookLM-like podcast API request /rileybrown/status/2114548544845594681 Oct 26; current substitutes need checking.",
+        "Playful lead: streamer/community-built games /rileybrown/status/2110748131113451797 Oct 15 cites @_MaxBlade Kong Royale; previous original-game ideas passed, do not revive them. Not selected.",
+        "Internal company superapp /rileybrown/status/2109658209115861292 Oct 12; personal workflow evidence, weak packaged product demand.",
+        "/rileybrown/status/2108691443900350494 Oct10IST animationspeed/craftquoteAshwinn→Oren; freepromptfix,notpaidnewtoolproof. Oct19sensitive-demopostdirectURLcouldnotberecoveredafterruntimereset,notusedtosupportshortlist."
+      ],
+      "actual": "2026-10-10 through 2026-11-10; live Latest search exhausted; 352 distinct rendered entries including reposts and replies; recovered Oct9–11 search covers IST boundary",
+      "actual_raw": "2026-10-10 through 2026-11-10; live Latest search exhausted; 352 distinct rendered entries including reposts and replies; recovered Oct9–11 search covers IST boundary"
+    },
+    {
+      "order": 8,
+      "category": 2,
+      "name": "Alex Finn",
+      "handle": "AlexFinn",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Directory/newsletter sponsorship: /AlexFinn/status/2110082377552888312 Oct 14 IST claims $1100, 56k visitors, two sponsors; /AlexFinn/status/2112640023803871268 Oct 21 claims $1800 and nearly100k visitors, 3k subscribers; followup /AlexFinn/status/2112646274264813913 says60%X40%SEO/AEO. Treat analytics as self-reported.",
+        "Buyer confirmation /matthewcarano/status/2109708842020004317 Oct12IST states $500 sponsorship and personal relationship/trust in Alex; quote offer1.2ksubs /AlexFinn/status/2109375171748602129. Original buyer post opened live. Stronger monetization evidence than generic viral claims, but founder audience not transferable.",
+        "Community Note on /AlexFinn/status/2109350802041291031 contradicts fully autonomous launch narrative; user did launch and promotion. Preserve counterevidence.",
+        "Agent workflow dashboards /AlexFinn/status/2115596225793921048 Oct29 and prompt /AlexFinn/status/2115612249826148795; free native dashboard is direct substitute for agent-monitor product.",
+        "Mobile agent control request /AlexFinn/status/2115858038326526413 Oct29 to Herdr; Oct31 /AlexFinn/status/2116357855364476971 promotes freeHerdr. Claude/Grok already covering remote control, weak standalone gap.",
+        "Token-efficiency tips /AlexFinn/status/2118402980340961507 Nov5; localmodel tutorial /AlexFinn/status/2117786932830982510 Nov4; interest signals, not payment proof. Prior P015 usageexplainer rejected: do not revive.",
+        "AI gaming optimism /AlexFinn/status/2110231166725095672 Oct14 largely speculative, no game revenue evidence."
+      ],
+      "actual": "Live Latest search Oct 9–Nov 10 exhausted, 190 distinct rendered entries",
+      "actual_raw": "Live Latest search Oct 9–Nov 10 exhausted, 190 distinct rendered entries"
+    },
+    {
+      "order": 9,
+      "category": 2,
+      "name": "McKay Wrigley",
+      "handle": "mckaywrigley",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Cybersecurity basics sharing request /mckaywrigley/status/2113037629000446011 Oct22IST quotes @peterwildeford checklist. Related Riley request independent user attention, no paid demand.",
+        "Nov1 replies challenge Grok factual errors on personalized trending versus charts /mckaywrigley/status/2116931331552948454. No concrete paid product identified."
+      ],
+      "actual": "Full monthly Latest search plus recovered Oct9–22 account search exhausted; no earlier indexed posts surfaced; source completeness remains index limited",
+      "actual_raw": "Full monthly Latest search plus recovered Oct9–22 account search exhausted; no earlier indexed posts surfaced; source completeness remains index limited"
+    },
+    {
+      "order": 10,
+      "category": 2,
+      "name": "Nick Dobos",
+      "handle": "NickADobos",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Creator brand-deal pricing request /NickADobos/status/2112019359929676287 Oct19IST; parent /zach_yadegari/status/2111934472644182522 says smaller influencers lack price baseline. Reply /zach_yadegari/status/2112020193824383155 suggests letting buyer offer first. Original parent and replies opened.",
+        "MCPreauth complaint /NickADobos/status/2113302779217547633 Oct22: Stripe/PostHog require repeated signins. Would need auth/platform access; no payment proof.",
+        "Plugin-sharing limit /NickADobos/status/2114797960160801159 Oct27IST: approval/community-plugin incompatibility prevents packaging skills. Platform-specific blocker, no independent payer.",
+        "App review feature-switch friction /NickADobos/status/2111809931896844344 Oct18 cites @vovalukashov rejected app, rule2.5.19; author may overstate banning all switches. Primary rule not verified; legal/standards claim must not be repeated as fact.",
+        "Mobile agent notifications/voice-preview requests /NickADobos/status/2113807500105703808 Oct24 and crossdevice thread-order request /NickADobos/status/2115861808565428667 Oct29. Native-platform fixes likely.",
+        "Proactive agent info diet /NickADobos/status/2112205483633418299 Oct19; currentfree gitmemory workaround /NickADobos/status/2119096160631816344 Nov7. P017 agentdocs sync passed previously, do not revive.",
+        "Playful JavaScript visual @gruffwashere /gruffwashere/status/2119305788325781750 Nov8; meme game tibo.dog quoted /NickADobos/status/2117011219714638169 Nov2. Attention evidence, no paid demand.",
+        "Book reading enthusiasm /NickADobos/status/2115535897932554253 Oct29IST for Readwise Books; licensedpublisher deals a dependency.",
+        "Ignore unsupported medical commentary; not product recommendations.",
+        "Profile supplement: agentDMoverload /NickADobos/status/2113276098322796929 Oct22; 50bots obscure humanmessages. Potential notificationaudit need; privacy/dataaccess prerequisites.",
+        "Outside-window /NickADobos/status/2107681204413874674 Oct7 warns overlapping bots pinging sameemail; historical corroboration only.",
+        "/NickADobos/status/2110485315366613272 Oct15 voice-notesdisappearandrequestslivetranscription; platformbug,notnewpayerproof. /2110037576115708021 Oct13 GitHubaccountsuspended,selfreported; reinstatedsame day /2110054751572508800. Noongoingbannotverifiedbackupgap.",
+        "/NickADobos/status/2110749518518235276 Oct15 agentblockedbyAmazon→switchedInstacart; selfreportedactualswitching,productionretailAPIAccessbarrier. /2110376072525308227 Oct14asksreuseChatGPTsubscriptionforindependentAPIapps; platformbillingdependency,notimplementableassumption.",
+        "/NickADobos/status/2110502226020188536 Oct15 seekspaymentforstandalonebots/plugins; opensourcegrim-tomepay-tributeexperiment. Noverifiedsales."
+      ],
+      "actual": "219 Latest entries to Oct15 plus profile through Oct9, recovered Oct9–15 search (173 rendered entries including outside-window posts); early reply gap supplemented",
+      "actual_raw": "219 Latest entries to Oct15 plus profile through Oct9, recovered Oct9–15 search (173 rendered entries including outside-window posts); early reply gap supplemented"
+    },
+    {
+      "order": 11,
+      "category": 2,
+      "name": "Meng To",
+      "handle": "MengTo",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Paid-partnership visual demos: Lottie assets /MengTo/status/2120109458638712924 Nov10, Weave /MengTo/status/2117298331361915188 Nov2, Step5 /MengTo/status/2116061552667480314 Oct30. Promotional capability evidence, no customer-demand proof.",
+        "Browser apartmentscene /MengTo/status/2119746949121495303 Nov9 for recordingtutorials. Scrollingfloorplan /MengTo/status/2117446870033445104 Nov3 cites SamAing casa-serra; GitHub original says~70prompts,2weeks,4versions and39MBlaptop13MBmobile textures. Not a oneprompt build.",
+        "Interactivephysicsbook /MengTo/status/2116550897128157475 Oct31 cites Kai then iamtechartist.com/every-joule; openedprimary:10GCSE/IGCSEenergylessons with prediction,testing,teacher notes. Cleardemonstration,teacherpayment unknown.",
+        "Stageshow /MengTo/status/2116914312250040786 Nov1 citesBenjiOct31; benji.org/stageshow openedprimaryfree skill, iterativecraft checks, competitive substitute for demo-maker app.",
+        "AI D&D personaldemo /MengTo/status/2115756268925448353 Oct29 and /MengTo/status/2116404959277433240 Oct31. Existing game direction archived; do not revive originalgameideas.",
+        "VisualQA paid-partnership demo /MengTo/status/2111147234171764759 Oct16 identifies video3Ddefectswithtimestamps; currentmodel capability need notpaidproduct.",
+        "Home-devicecontrol /MengTo/status/2110747334888083690 Oct15 citesicanberkACand morluto/rea; personaltool,hardware/supportdependencies.",
+        "Animated anatomy explainers /MengTo/status/2109182449179836579 Oct11 links wheresryan22/anatomy; free shaders /MengTo/status/2108924473265275003 Oct10 links shader-effects-inc/shaders. Capability/templatesupply, no payment proof."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "31 live profile entries traversed Nov10 pastOct9, pinnedAug21 excluded; profilePosts only, replies not fully inspected"
+    },
+    {
+      "order": 12,
+      "category": 2,
+      "name": "Pietro Schirano",
+      "handle": "skirano",
+      "outcome": "checked — nothing relevant found",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Nothing relevant found in inspected Oct10–Nov10 main posts. PinnedMagicPathSep29 and2000%growthSep30 are outsidewindow, not currentrun evidence. Replies not fully inspected."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Oct 28. Replies not exhaustive.",
+      "actual_raw": "Live profile traversed beyondOct10; 10rendered entries, onlyOct28 modelopinion inwindow"
+    },
+    {
+      "order": 13,
+      "category": 2,
+      "name": "Benji Taylor",
+      "handle": "benjitaylor",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Nov10IST /benjitaylor/status/2119869336940605561 asksbiggestXfix; repliespendingread.",
+        "HalloweenPumpkinBot /benjitaylor/status/2112218561091661922 Oct19 andrequest /benjitaylor/status/2109740199060357553 Oct13: playfulseasonalinterface, no direct paid demand.",
+        "StageshowOct31sourcebenji.org/stageshow discoveredthroughMengquote rather thanvisibleprofile; originalread andfreeDIYcompetitionconfirmed.",
+        "Nov10reply /soleio/status/2119877189080625429 asksreliablebotDMhiding; Benjireply /benjitaylor/status/2119877479058055311 sayssettingalreadyexists. Nativefixcounterevidence. /mickces/status/2119873060031320222 saysoneLikedpostoverfitsfeed. Notnewpaidmarketproof."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "23liveprofileentries traversed Nov10 pastOct9; mainposts only"
+    },
+    {
+      "order": 14,
+      "category": 2,
+      "name": "Josh tried coding",
+      "handle": "joshtriedcoding",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/joshtriedcoding/status/2119781852915671127 Nov9: UpstashBlob AIrecommendation optimization after6weeks, selfreported recommendation appearance; noindependentbuyer result.",
+        "/joshtriedcoding/status/2116141871143465422 Oct30 askswhatifagentscouldwrite naturalblogandwebcopy; buildingexistingproduct. Bydefaultso mentioned inolderSep24post, notfreshwindow. No verifiedpayingdemand."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 9. Replies not exhaustive.",
+      "actual_raw": "12liveprofileentries; mainposts traversedNov9pastOct9; twoinwindow"
+    },
+    {
+      "order": 41,
+      "category": 6,
+      "name": "Greg Isenberg",
+      "handle": "gregisenberg",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/gregisenberg/status/2113721373482987970 Oct24IST: brainstorm39businessmodels, including agentanalytics,identity,permissions,observability,AIscamprotection,skillreviews,AIknowledgecorrection,usedGPUhealthreports,physicalproductmanufacturing. Speculativepromotionalideas,notbuyerrequests. Fullpostopened.",
+        "/gregisenberg/status/2117734977312047537 Nov4IST fullworkflowopened: selfreported50personteam; agentsreadreviews,createvariants,runpersonatests,readPostHogdropoffs,cancellationreasons; humanapprovalremains. CommoditytoolstackandDIYsubstitutes ratherthanvalidationofpackagedproduct.",
+        "/gregisenberg/status/2117666628486008881 Nov3:syntheticusertesting viaFathompersonas+Browserbase; notequivalenttorealbuyerfeedback.",
+        "/gregisenberg/status/2114788328868544908 Oct27IST mainstreetAIservicesepisode; /gregisenberg/status/2114800921347764644 videolink$1000/hourtitle, unverifiedincomenotused.",
+        "/gregisenberg/status/2113271458168279286 Oct22 foldableappredesignopportunity; nativehardwaredependencyandexternalplatformwork, weakoneweekwebfit.",
+        "/gregisenberg/status/2113626973465383047 Oct23 and /gregisenberg/status/2113044829957459984 Oct22 cybersecurity/AIkeyriskcommentary; breachdetailsnotindependentlyverifiedandnotrepeatedasfacts.",
+        "/gregisenberg/status/2110414696037716372 Oct14 datadealrevenueanecdotes explicitlyunverified; /gregisenberg/status/2118087733205717440 Nov5 businessmoatsvideo. Broadtheses, notsufficientmarketvalidation."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "32liveprofileentries; mainpostsNov10pastOct9"
+    },
+    {
+      "order": 42,
+      "category": 6,
+      "name": "Pat Walls",
+      "handle": "thepatwalls",
+      "outcome": "checked — nothing relevant found",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Nothing relevant found in Oct10–Nov10 mainposts: onlyNov2StarterStoryhostrecruitment, notcustomer/productneed."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 2. Replies not exhaustive.",
+      "actual_raw": "11liveentries, profileNov2pastOct9"
+    },
+    {
+      "order": 43,
+      "category": 6,
+      "name": "Courtland Allen",
+      "handle": "csallen",
+      "outcome": "checked — nothing relevant found",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Nothing relevant found in Oct10–Nov10 mainposts; no currentposts surfaced."
+      ],
+      "actual": "Main profile: newest non-pinned post Apr 20; no monthly posts surfaced.",
+      "actual_raw": "3liveentries, latestnonpinnedApr20"
+    },
+    {
+      "order": 44,
+      "category": 6,
+      "name": "Dru Riley",
+      "handle": "DruRly",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "PersonalAPIkeyloss /DruRly/status/2114072157592715268 Oct25IST reportsstolenGeminikey,200xspike,spendcapstoppedcharges,billingcasepending. Selfreportedloss,notindependentbreachverification.",
+        "/DruRly/status/2115095929909068172 Oct27 open-sourcehostedbusinesses claimsGhost11.15Mannual,Plausible1Mannual,Postiz284176monthly,Rybbit9314monthly323subs,MailCheap421nine daysafterlaunch. Fullpostopened; claimsneedofficialverificationbeforeeconomiccomparison.",
+        "/DruRly/status/2119853061137138066 Nov9 sellingagentsthesis; /DruRly/status/2115487767572684824 Oct28 launchingdailycausedburnout. Generalbusinessmodel/timingcontext."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "22liveentries, profileNov10pastOct9"
+    },
+    {
+      "order": 45,
+      "category": 6,
+      "name": "Sam Parr",
+      "handle": "thesamparr",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/thesamparr/status/2112574603004662091 Oct20 says4creatorsunder100kfollowers earning1M+annualAIadrevenues; unnamed/interviewselfreportsnotverifiedsales. Anticipatestemporarygoldrush.",
+        "/thesamparr/status/2112939576746733633 Oct21 WordPressusernowusesClaudeforchangesinstead of themes/plugins; demandcounterevidenceforgenerictemplates.",
+        "/thesamparr/status/2112923087683690991 Oct21 impersonationscamusinglatestpodcast. Directpersonalproblem, no paidproductshown.",
+        "/thesamparr/status/2109395931879924211 Oct12 asksnewsletterplatformnetworkgrowth; needresponsesbeforeclaimingwhichplatformworks.",
+        "/thesamparr/status/2113660950821970044 Oct23 officeblindicecreamtasting playfulactivity; nobuyerrequest."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 4. Replies not exhaustive.",
+      "actual_raw": "23liveentriesprofileNov4pastOct9; Oct20sourceopenedviaRileyrepost"
+    },
+    {
+      "order": 46,
+      "category": 6,
+      "name": "Shaan Puri",
+      "handle": "ShaanVP",
+      "outcome": "checked — nothing relevant found",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Nothing relevant found Oct10–Nov10 mainposts; Nov4politicalcomment, otherpostsoutsidewindow."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 4. Replies not exhaustive.",
+      "actual_raw": "7liveentries; profileNov4pastOct9"
+    },
+    {
+      "order": 47,
+      "category": 6,
+      "name": "Lenny Rachitsky",
+      "handle": "lennysan",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "LennyNov1WisprUGCinterview /lennysan/status/2116927042759635132 andNov2takeaways /lennysan/status/2117277733273366891; primaryinterviewpreview https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the opened: roster50creators,500–600ads/month,cutofadspend,best13k+monthly. Interviewclaimsnotaudited. Supportscreator-marketactivity,notdemandforourtool.",
+        "SourcechainLenny→Hectororiginal /hectorserrranoo/status/2108260769603486100 Oct8outsidewindow opened. Videoplaybooknottranscribed; Trybe tagged andreplyasksifTrybead,so commercialcontextnotindependentproof.",
+        "/lennysan/status/2113661154480562531 Oct23 solicitsunder250giftideas; /lennysan/status/2117660747555856859 Nov3holidaygiftguide100+items withdemandfromreaders; seasonalcurationlead, monetizationnotverified.",
+        "/lennysan/status/2113725944955535387 Oct24 HypeLessrequestsrepeatablerealAIworkflows, quotesOct15researchlaunch; supportsverificationneedandcompetitiontodirectory.",
+        "/lennysan/status/2117731838760464398 Nov4 freecompensationbenchmarks, /lennysan/status/2119957080492966371 Nov10Next50earlystagejobsusingHarmonicdata. Directcompetition/dataaccessdependenceforjobboard.",
+        "/lennysan/status/2117721820426355145 Nov4 anonymousarchitect8minversus1.5yearsanecdote; notverifiedandnotrecommendedasconstructionproduct.",
+        "/lennysan/status/2114747753968644359 Oct26 RobSnyderPMFlessons: pain+designpartnersdonotguaranteepayment; contextualcounterevidence."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "74liveprofileentriesNov10pastOct9"
+    },
+    {
+      "order": 48,
+      "category": 6,
+      "name": "Shreyas Doshi",
+      "handle": "shreyas",
+      "outcome": "coverage incomplete",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/shreyas/status/2111619188649508974 Oct18 askslocalhealthcarenavigationforfamily; concretepainbutnotmedicalproductvalidation,service-heavy.",
+        "/shreyas/status/2110401347392807378 and /shreyas/status/2110393175525454315 Oct14 judgmentversusmoreuserinterviews; broadadvice.",
+        "Oct15subscriptionpostunreadable, notNothingrelevantfound."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Oct 18. Replies not exhaustive. One October subscriber post hidden.",
+      "actual_raw": "14liveentries mainpostsOct18pastOct9; subscriptionposthidden"
+    },
+    {
+      "order": 49,
+      "category": 6,
+      "name": "Ryan Hoover",
+      "handle": "rrhoover",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/rrhoover/status/2117599445617451181 Nov3: builtmusicappcannotshareuntilSpotifyextendedAPIpermission. Externaldependencycounterevidence.",
+        "/rrhoover/status/2119889958593036340 Nov10IST ProductHuntMCPannouncementviaRajiv; launch/researchdistributionopening, notautomatictraffic.",
+        "/rrhoover/status/2114737255721922833 Oct26 launchfirstcaption/lowproductionvideo approachquotingYC/Farza.",
+        "/rrhoover/status/2110046801264791615 and /rrhoover/status/2110047458008903792 Oct13 rejectsAIcoldemailfalsepersonalization; favorsbriefdirectmessage. Acquisitiontestguidance.",
+        "/rrhoover/status/2114703104805388708 Oct26 encounteredClickFixprompt; generalizedallSMBcompromisedclaimunverified, notusedasfact."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "28liveprofileentriesNov10pastOct9"
+    },
+    {
+      "order": 50,
+      "category": 6,
+      "name": "Hiten Shah",
+      "handle": "hnshah",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/hnshah/status/2118287708657242596 Nov5 Noatslocalaudiomeetingtranscription+notes,freebeta,noats.ai. Fullpostopened. Marketcompetition,privateaudio demandhypothesisnotvalidated.",
+        "/hnshah/status/2117562932854948168 Nov3 BeamremotewindowappbuiltforagentMacs; /hnshah/status/2115567031370252325 Oct29 says6weeksearlyuserfeedbackchangedlaunch.",
+        "/hnshah/status/2118650096397308100 Nov6 promotes typeahead.ai inlineSlackreplycompletion. Vendorlaunch,notunmetneed.",
+        "/hnshah/status/2118498598170296828 Nov6 organizationalAIadoptionfragmented; trainingcohortposts /hnshah/status/2118721316253798889 Nov6 offernoncoders practicalexamples.",
+        "/hnshah/status/2119464781459710450 Nov8 agentmanagerworkflow; /hnshah/status/2117333672114479337 Nov3 promptauditunspecifiedproductdecisions. DIYworkarounds.",
+        "/hnshah/status/2117346377248506003 Nov3 citesJayYangmarketingplaybook124kfirstmonthclaim; notverified, notusedforincomeestimates.",
+        "/hnshah/status/2110826796866502936 Oct16 fullpostopened:16competitiveintelligenceskillsimprovedsourcesbutneededsharedmarkethistorytotellnewchanges. /2112969918274519216 Oct21 requests6competitorsmorningevidenceandmemory. /2109810097375612934 Oct13 win/losswithoutbuyerevidencegaveeightinventedreasons; github.com/LMTYdotcom/skills officialfreepack+paidLMTYcontextsubstitute.",
+        "/hnshah/status/2112079299746398633 Oct19 Beamlaunch; independentusers /trevin/status/2112182511526887805 Oct19 and /itsdavemartin/status/2114161745656946724 Oct25 willingnessbuy,notverifiedpayment. NativeMacremotewindowrequireslargerscope.",
+        "/hnshah/status/2113030316168454333 Oct22 agentdoneinsufficient:didworkfinish/whatneededfixing/repeattrust. /2113328279482761430 Oct22 MattRobbMuseacceptedoffer/sharedaddress,thirdpartyexamplewhoseoriginalnotresolved,nouseasverifiedincident.",
+        "/hnshah/status/2110221019181142277 Oct14 asksShopifymerchantstestblindagentrecommendations; officialshop.mdquotedsourcenotopened,noproductionspecassumed.",
+        "/hnshah/status/2112229791545839817 Oct19 earlyaccess100+replies→realmultiMacusers; /2111967470307463581 Oct19 retentionmeasuredwhentaskrecurs. Practicalvalidationguidance.",
+        "Reposts: /immad/status/2111980411404558409 Oct19 schoolforms/eventsfromemailagent; /Aprilzz423/status/2111839048230666590 Oct18 interactivelearningColorfigures; /hnshah/status/2111598374747320530 Oct18TVadfreecustomlauncher; outsideweekwebscopeorweakpayment."
+      ],
+      "actual": "Main profile Nov10–Oct28 plus recovered account-specific Latest search Oct29 through Oct9 (582 rendered entries); full visible monthly window reached",
+      "actual_raw": "Main profile Nov10–Oct28 plus recovered account-specific Latest search Oct29 through Oct9 (582 rendered entries); full visible monthly window reached"
+    },
+    {
+      "order": 51,
+      "category": 6,
+      "name": "Jason Cohen",
+      "handle": "asmartbear",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/asmartbear/status/2111813302938476627 Oct18 Mindstampfounderworkshopclaimssixfigureannualprofitbutstalledgrowth; /asmartbear/status/2113006666970976502 Oct22 trainingvideowaste; /asmartbear/status/2112622887953699059 Oct21 certificationidentitystrongretention. Namedexistingpaidcategory,notverifiedprofit. Primarymindstamp.com/pricing confirms99monthlyBasic/990yearly,questions/buttons/perviewerreporting; customer-education primarypageprovidesworkflow.",
+        "/asmartbear/status/2118361061443154154 Nov5 PostBridgefounder sayshalfcustomersuseAPIs/agents; /asmartbear/status/2117729787456225576 Nov4 pricingchangedtwiceandneededthird. Officialsupport.post-bridge.com/api/post-bridge-api-overview-access-and-pricing confirmsactivepaidplan,API/MCP/CLI included, notproductionfreeAPI.",
+        "/asmartbear/status/2112608469866180707 Oct20 JasonbuiltAIvideoeditingtool; quotesCraigHewitt45minvideoedited1.5h,twoaudiences. SourcechainneedsCraigfullpostifyouuseeconomics.",
+        "/asmartbear/status/2114922790981677158 Oct27 chartsinbossdeckcarryproductlogo: specificsharingmechanism.",
+        "/asmartbear/status/2115074037130883561 Oct27 midmarketprocurementburden; one-offversussubscriptionpost /asmartbear/status/2109106465264804158 Oct11.",
+        "/asmartbear/status/2113730688172081204 Oct24 ifconsultingstopsandcustomerleaves,servicecompany; /asmartbear/status/2118709198896636213 Nov6 turningconsultingintoproductusuallyunderresourced. Practicaleconomicscounterevidence."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "73liveprofileentriesNov10pastOct9"
+    },
+    {
+      "order": 52,
+      "category": 6,
+      "name": "Patrick McKenzie",
+      "handle": "patio11",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/patio11/status/2113814217119965594 Oct24 quotesJackEllis20SaaSsubscriptionspayforpatchmaintenance; corroborateshostedservicevalue,notautomaticdemandfornewentrant.",
+        "/patio11/status/2111869935102337205 Oct18 agencyqueue-depth/aging-reportgap opinion; governmentprocurementpoorweeklaunchfit.",
+        "/patio11/status/2119469823713259656 Nov8 business-email-compromisecommentaryquotesthirdpartyincident; specificlossnotverified.",
+        "/patio11/status/2112588853139939339 Oct20 agentsrepairGitHubAPIretryworkflow, /patio11/status/2110582400824856734 Oct15 increasedmultiagentinferenceusage. Generalworkflowcontext."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "36liveprofileentriesNov10pastOct9"
+    },
+    {
+      "order": 53,
+      "category": 6,
+      "name": "Ben Tossell",
+      "handle": "bentossell",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/bentossell/status/2110375102349300173 Oct14 directreporthourlyemailtriagedidnotrunwhileagentinventedrunhistory. Fullpostandrepliesopened. /ThisMightWrk/status/2110489552997773553 Oct15 reportscron-driftandcheckslast3timestamps; /neophyte2k/status/2110452045799166394 saysschedulerflaky; /joulsounet/status/2110660595431403750 reportsrunningjobquietlyburningXcredits. Independentlimitedreplycorroboration,notpaidintent.",
+        "/bentossell/status/2112609335096627212 Oct20 asksSubstackembeddedvideoanalytics. /bentossell/status/2110332030433034422 Oct14 asksfree/cheapemailenrichment. Concreteasksbutexistingtools/datadependencies.",
+        "/bentossell/status/2111443109175308616 Oct17 and /bentossell/status/2112532165485564064 Oct20 personalemail+todoboard+domains/repos withpublishedDIYinstructions sessions.bensbites.com/todo-board.",
+        "/bentossell/status/2118675030330716322 Nov6 quotesNov5booktimelinebuiltfromKindle/podcast/YouTubehistory. Relevantplayfulpersonalreadingprofile,notpaymentproof.",
+        "HistoricalOct9overlappingmeetingnotifications /bentossell/status/2108573499606315140; Oct8personalagentrouterrequest /bentossell/status/2108110016297451579 outsidewindowcorroborationonly."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 6. Replies not exhaustive.",
+      "actual_raw": "40liveprofileentriesNov6pastOct9"
+    },
+    {
+      "order": 54,
+      "category": 6,
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/danshipper/status/2112549948789010628 and /danshipper/status/2112550542837002419 Oct20 approvalpolicydeadlockblockswork; platformtroubleshootingnotnewproductproof.",
+        "/danshipper/status/2113010761786175970 Oct22 frontierAIteamkeepsupfortherest; paidtraining/researchcurationmarketcontext.",
+        "/danshipper/status/2110707025826996280 Oct15 newsletter120k+subscribersclaimsagentreadsreplaceinbox; vendoropinion/EveryAgentpromo,notproofnewslettersdead.",
+        "/danshipper/status/2109331798282915907 Oct11 bookreadingfeedgoingback2012andteamsharing; corroboratesBenreadingtimeline,monetizationunknown.",
+        "/danshipper/status/2117386273984012535 Nov3SlackEveryagentlaunchand /danshipper/status/2116978123044688304 Nov2 WhatsAppaccessconcern; externalpermissions/platformbarriers.",
+        "/danshipper/status/2115093098816745910 Oct27 video/gamecreationinordinarywork thesis; noindependentbuyers."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "51liveprofileentriesNov10pastOct9"
+    },
+    {
+      "order": 55,
+      "category": 6,
+      "name": "Andrew Chen",
+      "handle": "andrewchen",
+      "outcome": "checked — nothing relevant found",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Nothing relevant found in Oct10–Nov10 mainposts forsmallproductneed; mostSpeedrunfunding/residencyannouncements. Nov1applicationdeadlinealreadyclosed."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Oct 31. Replies not exhaustive.",
+      "actual_raw": "17liveprofileentriesOct31pastOct9"
+    },
+    {
+      "order": 56,
+      "category": 6,
+      "name": "Julian Shapiro",
+      "handle": "Julian",
+      "outcome": "checked — nothing relevant found",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Nothing relevant found Oct10–Nov10 mainposts; onlypersonalwebsiteredesign/handbookplans."
+      ],
+      "actual": "Main profile: Nov 3, then older posts from 2024; replies not exhaustive.",
+      "actual_raw": "9liveentries; Nov3thenNov2024"
+    },
+    {
+      "order": 57,
+      "category": 6,
+      "name": "April Dunford",
+      "handle": "aprildunford",
+      "outcome": "access limited",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "NoOct10–Nov10postsread; profileexplicitlyredirectstoLinkedIn. Emptyprofiledoesnotestablishcompletehistoricalcoverage."
+      ],
+      "actual": "Identity confirmed; bio says inactive on X; visible Posts empty. No monthly content accessible.",
+      "actual_raw": "Profileidentityconfirmed; bioNotactiveonX,visiblePosts empty"
+    },
+    {
+      "order": 58,
+      "category": 6,
+      "name": "Nathan Barry",
+      "handle": "nathanbarry",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/nathanbarry/status/2119507480179003858 Nov9authortoolteaser; reply /nathanbarry/status/2119802516934398140 saysnewKitfeature. /TheElliottSmith/status/2119518125758796037 asksvaluewithoutaudience; /cluelesslygeeky/status/2119622699668357461 asksmanuscriptprivacy. Fullthreadopened;functionalityunrevealed,notrankableyet.",
+        "/nathanbarry/status/2115445164982550726 Oct28 wantsmentionGrokbotinregularSlackconversations. ExistingEveryintegrationNov3showsalternatives.",
+        "/nathanbarry/status/2116560833803420045 Oct31 Every40000editorialeditsintoskillsand /nathanbarry/status/2115836053924049116 Oct29 newsletteragentsinterview; commercialcollaboration/contextnotindependentproof.",
+        "/nathanbarry/status/2113609226174238919 Oct23 KitSignalscustomerdiscoverednotablereader; vendorcustomeranecdote,privacy/enrichmentdependencies."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "23liveprofileentriesNov10pastOct9"
+    },
+    {
+      "order": 59,
+      "category": 6,
+      "name": "Noah Kagan",
+      "handle": "noahkagan",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/noahkagan/status/2112913850840265157 Oct21 selfreportedAppSumo12monthsales: AIvisibility257kmedian6products; LinkedInautomation138k6; AIvideo60k12; CRM43k8; AIwriting34k33; AIagents17k15; WPplugins3.5k19; socialmanagement3.7k12;coldemail1.8k8. Noauditableunderlyingrows/refund/platformsharedata, selectionbias. Allthreadpostsopened.",
+        "/noahkagan/status/2112913859841302554 Oct21 HR640searches90daysbutonlyonesellingtool465/year: searchinterestnotpaymentproof,cautionratherthanbuildrecommendation.",
+        "/noahkagan/status/2112557458233180550 Oct20 LeadOcean20560/120customers11daysviaAppSumoRadar; platformpromotion,notverifiednetprofit.",
+        "/noahkagan/status/2112674385463070721 and /noahkagan/status/2112619594070262232 Oct21 SendFoxnewsletter-beefinteractivegame; sendfox.com/the-great-newsletter-beef fetchfailed,livebrowserpendingifshortlisted.",
+        "/noahkagan/status/2114444846760939670 Oct26 freetweetdraft/scoringtool; contentplannercommodity/freealternative.",
+        "/noahkagan/status/2109654159402106927 Oct12 freeselfhostSumoSharescap-tableopensourcegithub.com/noahdevkagan/sumoshares; notverifiedfinancial/compliancefunctionality,notrecommendedbuild.",
+        "SendFoxsourceopenedlive:sendfox.com/the-great-newsletter-beef hasinteractivecartoonboxersandfreeregisterCTA; seasonalbrandpromotion,conversion/revenuemeasurementnotpublished."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "22liveprofileentriesNov10pastOct9; AppSumothreadexpanded"
+    },
+    {
+      "order": 60,
+      "category": 6,
+      "name": "Sahil Lavingia",
+      "handle": "shl",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/shl/status/2111666622993957216 Oct18 nonrepresentativepoll880votes54.5%3+agents,23.1%zero. Onlyaudiencepoll,nopopulationestimate.",
+        "/shl/status/2120093295141654731 Nov10 coworkeragent-cloneundersecurityreviewquotesNov9idea. /shl/status/2111859996845600843 Oct18 governmentsoftwareoptimism. Noidentifiedsmallpaiduserproblem.",
+        "IRSapplogin/betaupdatesOct27Nov1governmentcapabilitynotcommercialopportunityproof."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "25liveprofileentriesNov10pastOct9"
+    },
+    {
+      "order": 61,
+      "category": 6,
+      "name": "Jason Fried",
+      "handle": "jasonfried",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/jasonfried/status/2111257844599390458 Oct17 quotesCarlAssmannsmallteamSlack+GitHubscatteredwork,tryingBasecamp. /jasonfried/status/2113370581068546177 Oct23 DaveFoyswitchingNotiontoBasecampagentscannotinventunreadableconfig. Actualswitchingaccountsfilteredbyvendorpromotion.",
+        "/jasonfried/status/2112955033197400331 Oct21 AustenConradagentworkcompletionalert; /jasonfried/status/2112407297406509361 Oct20 overnightagentprogressviaBasecamp. Existingnativeworkrecordsubstitute.",
+        "/jasonfried/status/2113043659621077312 Oct22 officialBasecamppluginlaunch; basecamp.com/ai, connectorsallagentssupport. No neednewwrapperwhenexistingMCPworks.",
+        "/jasonfried/status/2108991240037626231 Oct11 askswherefindrealpaidgrowthcreatorlikeHector; directbusinessbuyerrecruitmentpain,corroboratesUGCmarketbutmarketplacecoldstart.",
+        "/jasonfried/status/2110217870898778608 Oct14 theoreticalwillingnesspaynotreal; testactualmoney.",
+        "/jasonfried/status/2109737418593321123 Oct13 agencyAIautomationopinion; /jasonfried/status/2109739392177000593 Oct13 sporadicI-love-thatpodcastideaandpublicationobligation; notvalidatedsoftware."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "68liveprofileentriesNov10pastOct9"
+    },
+    {
+      "order": 62,
+      "category": 6,
+      "name": "Des Traynor",
+      "handle": "destraynor",
+      "outcome": "checked — nothing relevant found",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Nothing relevant found Oct10–Nov10 mainposts forsmallproductopportunity. OneOct29culture-versusprocessquotation,olderFinlaunchoutsidewindow."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Oct 29. Replies not exhaustive.",
+      "actual_raw": "11liveprofileentriesOct29pastOct9"
+    },
+    {
+      "order": 63,
+      "category": 6,
+      "name": "Andrew Gazdecki",
+      "handle": "agazdecki",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "AnonymousAcquirelistingpromotions,allfinancialsseller/platformclaims,notverifiedprofit. PrintshopSaaS /agazdecki/status/2110079597094318564 Oct14IST259kTTMrev176kprofit288kARR; fullpostopened,listing https://app.acquire.com/startup/geLlXnZc4JfrLCVaTdUzeh4Xbqw1/7YDF2eHvo9apezYvabCP inaccessiblebywebshortlink.",
+        "Softwarecases: Cloverfees /agazdecki/status/2119867190925246581 Nov10 1M+profit; Spotifyalarm /agazdecki/status/2116570925256912903 Oct31 500kprofit (SpotifypermissionbarrierfromRyan); gamingads /agazdecki/status/2116227152047939739 Oct30 2.7Mprofit; universityadvising /agazdecki/status/2115550747710357743 Oct29 1Mprofit; habits /agazdecki/status/2113007542746140854 Oct22 100kprofit; examstudyAI /agazdecki/status/2112274268109316468 Oct20 640krev61kprofit; Shopifybundles /agazdecki/status/2111914826637394255 Oct19 1.1MARR520kprofit; billiardsAndroid /agazdecki/status/2111192209567645781 Oct17 86kprofit4Mdownloads; StripeGermanaccounting /agazdecki/status/2110443076665934276 Oct15 158krev120kprofit; formbuilder /agazdecki/status/2109364229493182585 Oct12 345krev208kprofit.",
+        "Content/servicecases: dognewsletter /agazdecki/status/2117699562781757616 Nov4 50ksubs155kaffiliates; AIleadagency /agazdecki/status/2118032705149640921 Nov4 126kownerearnings; legalservices /agazdecki/status/2114082077381624254 Oct25 2.1Mrev490kearningslicensedlawyers+AI; coldemailagency /agazdecki/status/2115827018621125070 Oct29 1.9Mrev929kSDE; soloFramersites /agazdecki/status/2113679424470307206 Oct23 444krev378kprofit; Amazon/TikTokagency /agazdecki/status/2113360158470606903 Oct23 262krev165kprofit11clients; InstagramDMagency /agazdecki/status/2109721801588949448 Oct13 4.8Mrev1.2Mprofit; localization /agazdecki/status/2108645765715537990 Oct10 9Mrev2Mprofit500buyers.",
+        "Otherharderoperationsleads: restaurantvirtualbrands /agazdecki/status/2111590498960081265 Oct18 2.8Mrevenue; pestdevices /agazdecki/status/2115175804418077015 Oct28 14.1Mrev; compressionsocks /agazdecki/status/2114488032166625415 Oct26 18.7Mrev. Inventory/claims/logisticsoutsideweekweblaunchfit.",
+        "Supplementalprintproofingprimarypages: rastr.ai/features/customer-proofing freeincluded; getprintproof.com Solo7.48Studio24USDmonthly; proofforge.printforgeapps.com/online-proofing-software29AUDmonthly; proofapprove.com12/29USDmonthly; proofercanvas.com/print-shop-proofing49USDannualWP. Plentyofcompetitors,needcustomeraccessratherthannovelty."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "79liveprofileentriesNov10pastOct9"
+    },
+    {
+      "order": 64,
+      "category": 6,
+      "name": "Nathan Latka",
+      "handle": "NathanLatka",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/NathanLatka/status/2110429680067047524 Oct14 airSlateCEOinterview claims200MARR1.1Mpayingcustomers,PDF/forms/signatureproducts. Fullpostopened,CEOfiguresnotaudited. 85000lawyerbuiltformsisrealcontentdependency,notinstantcopy.",
+        "SameinterviewcriticizesChatGPTSEOgurus; detailedargumentnottranscribed,do nottreatasproofallAIvisibilityinvalid. Pointsatauditableoutcomes.",
+        "/NathanLatka/status/2119446814180974805 Nov8 webinarsbestperformingchannelselfreport; Nov9producer/Zoomcomments staffing. Distributionexample,notnewproductbuyerrequest."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 9. Replies not exhaustive.",
+      "actual_raw": "12liveprofileentriesNov9pastOct9"
+    },
+    {
+      "order": 65,
+      "category": 6,
+      "name": "Jason Lemkin",
+      "handle": "jasonlk",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Agentfailure /jasonlk/status/2119140412212310461 Nov8 weeklylearningsapprovedfixesqueuedovernightbutnonebuilt; /jasonlk/status/2119264898463199419 Nov8 deprecatedmodelstillcalled. StrongoperationalpaincorroboratesBen. Fullweeklylearningsneedsopening.",
+        "/jasonlk/status/2111551783244005644 Oct18 agentdeletedSalesforce; /jasonlk/status/2115255605111795878 Oct28 twodatawipesandunplannedcopiesrecovery; directselfreports. BackupbusinessrequiresmuchhighertrustthanweekMVP.",
+        "/jasonlk/status/2110471455435629031 Oct15 invoicecollections56%latebefore→8%after,17→6daysoverdue; invoiceissued30minaftercloseandproperfinancecontact; needsfullpost/context. Existingcustomerusecase,unverifiedcausality.",
+        "/jasonlk/status/2118168422295191671 Nov5 Vercelqualifierunder5k/yearplus20%engineermaintenance; /jasonlk/status/2118413034154827798 Nov6 sixweeksshadowreviewbefore90thpercentileclaim. Headline5kexcludesengineerlabor.",
+        "/jasonlk/status/2110676304961876064 Oct15 contactforminboundagenthighROI; /jasonlk/status/2115175199276429663 Oct28 followupweakforAISDRs. NewtoolsfaceexistingGTMproviders.",
+        "/jasonlk/status/2119255491188580544 Nov8 downtimevendor60kcontractnoproactive330credit; servicecreditadminpain,contractdependencynotquickautofinanceproduct.",
+        "/jasonlk/status/2112614828284264737 Oct21 saysagentvendorrecommendationsdifferfromhumanAEOand /jasonlk/status/2114095585485619573 Oct25 personalcontextchangesvendors: AIvisibilitymeasurementmustfixprompts/modelcontext,snapshotsnotguaranteedranking.",
+        "/jasonlk/status/2113388174257111548 Oct23 securityfeaturesenterprisegatecomplaint; /jasonlk/status/2113326047626494137 Oct22 deliverabilitybakeoff500kemailsexistingprivatecustomerdata,notfreepublicdataset.",
+        "Freepitchreview /jasonlk/status/2116592287195271200 Oct31 saastr.ai/pitch-deck-analyzer; discouragesgenericpaidpitchgrader.",
+        "/jasonlk/status/2116657536048955848 Nov1 resolutioncost0.4–0.5versus2priceveryroughportfolioobservation,notproviderpricingsource.",
+        "Fullweeklylearningsopened: approvedReplitfixesqueuednotdone;35to84dailyspendfromvolume;deprecatedmodelneededzerocalllog24h;factcheckerfalseflags;UIbugmistakenformissingdata;agenttoagentinboxloops;duplicateunusedCanvaplan.",
+        "Fullinvoicepostopened:20pagecontract→Salesforce→Bill→financecontactenrichment→weeklyfollowup,dailycheck,human7dayslate; quarterdeployment. PaidBillremindershadnotbeenenabled;3superviseddeals,onewronginvoiceonthe4th. Fullautomationexceeds30h;CSVdraftboardhypothesisonly."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 8. Replies not exhaustive.",
+      "actual_raw": "175liveprofileentriesNov8pastOct9"
+    },
+    {
+      "order": 66,
+      "category": 6,
+      "name": "Harry Stebbings",
+      "handle": "HarryStebbings",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/HarryStebbings/status/2111856312283787538 Oct18 sends184personalLPupdateemails,10–12hoursquarterly; intentionalpersonalcare,notanexplicitautomationrequest.",
+        "/HarryStebbings/status/2109411629410464235 Oct12IST200+messagesaftereachfunctionalhow-toepisode; attentionnotpayment.",
+        "/HarryStebbings/status/2114791168932229414 Oct27ISTtrustoutsidemodelvendor; /2113768178518278226 Oct24productionbottleneck; /2113747795090047144 Oct24codereviewimportance. Interview/opinioncontextnotidentifiedsmallbuyers.",
+        "/HarryStebbings/status/2109722356705030529 Oct13ISTAtlassianCEOheadlessisbrainlesscounterpointtoallUIdead. Capital,GPU,sovereigninfrastructureoutsideweeklaunchscope."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "90 live profile entries Nov10 past Oct9"
+    },
+    {
+      "order": 67,
+      "category": 6,
+      "name": "Harry Dry",
+      "handle": "harrydry",
+      "outcome": "checked — nothing relevant found",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Nothing relevant found in Oct10–Nov10 mainposts; Oct15writingconvictionadvice,notapurchaseorproblemrequest."
+      ],
+      "actual": "Main profile: Oct 15, then July 2024; replies not exhaustive.",
+      "actual_raw": "10 live profile entries Oct15 then July2024"
+    },
+    {
+      "order": 68,
+      "category": 6,
+      "name": "Brian Balfour",
+      "handle": "bbalfour",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/bbalfour/status/2115860528602165637 Oct29 promotesSuperMegroupchatsofoperatorAIprofiles; originalCaseyWinterslaunchpublicsourcefoundviaofficialsuperme.ai/casey and superme.ai/blog/series-a. Existingresearch/adviceproduct,notnewbuyerproof."
+      ],
+      "actual": "Main profile: Oct 29, then February 2026; replies not exhaustive.",
+      "actual_raw": "9 live profile entries Oct29 then Feb2026"
+    },
+    {
+      "order": 69,
+      "category": 6,
+      "name": "Elena Verna",
+      "handle": "ElenaVerna",
+      "outcome": "checked — nothing relevant found",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "Nothing relevant found in Oct10–Nov10 mainprofile; no visible monthly posts. Replies not exhaustively accessible."
+      ],
+      "actual": "Main profile: Sep 24 through older June posts; no monthly posts surfaced.",
+      "actual_raw": "Main profile newest Sep24; traversed older posts to June2026"
+    },
+    {
+      "order": 70,
+      "category": 6,
+      "name": "Aakash Gupta",
+      "handle": "aakashgupta",
+      "outcome": "checked — findings",
+      "required": "2026-10-10 through 2026-11-10 Asia/Kolkata",
+      "notes": [
+        "/aakashgupta/status/2109027234095014392 Oct11IST fullpost: own47.35overnightagentbill,uncappedrepeatloop,threeagentshundredsofturns,fiveautorecharges; nowwritesbudgetandturn/timeconstraints. Doesnotdemonstratethatpromptbudgetisahardproviderenforcedcap.",
+        "/aakashgupta/status/2113362903017664592 Oct23IST and /2117713025943970252 Nov4IST sponsoredMonoDeskproposal/approval/scope/invoicingworkflow; officialmonodesk.com/help/proposals-invoices confirmsbrandedlinks,clientacceptanceandprojectconversion. Sponsoredvendorpainframing,notindependentbuyerresearch.",
+        "/aakashgupta/status/2117280586108981504 Nov2 videoeditingrequiredmultipleconcretecorrectionsafterfirstcut; publishedfree32skills. /aakashgupta/status/2119558855973835141 Nov9facelessreelsinstruction. ExistingDIYvideoeditingcompetition.",
+        "/aakashgupta/status/2119154923598381559 Nov8IST policy-documentchangesalteragentrefundbehavior; interviewsummarynotindependentcustomerincident. /2115493065268080911 Oct28 codehooksversuspromptguards practicalcontext.",
+        "/aakashgupta/status/2113299637352456681 Oct22 AnkitShuklarebuiltemailUIoverSES,120sendingplus550oldUI selfreported; fulloriginalinterviewnottranscribed,donotuseasnewproductvalidation. /2115132189939757086 Oct27 rawsavetranscriptsoutperformedsummariesinoneproductteamtest,notgeneralbenchmark.",
+        "/aakashgupta/status/2115291471566045684 Oct28 and /2117716198033178933 Nov4IST PMhiringandcompdatawithLiveData/Levels.fyi; dataaccessdependency,alreadycuratedproducts. /2116185615150854531 Oct30 offernegotiationguide,existingcoursecontent.",
+        "/aakashgupta/status/2110766030821990505 Oct15 sponsoredOpenUIgenerativeinterface; /aakashgupta/status/2110017232483074375 Oct13 sponsoredCluesovideoupdateworkflow. Vendorcapabilityclaimsnotindependentpurchases.",
+        "Sponsoredlandscapeobserved: Robynpersistentagents,LivingBraincrossappmemory,Parallelwebdecisions,Selfagentvault,Articul8workflowmodel,Nectargrowth,Traversalreliability,Selendisvideo,HumeaudioQA. Thesearevendorsellingclaimsandpotentialsubstitutes; noinferredindependentcustomerpain.",
+        "Capability/playfulleads: HackerTubeHNcuratedvideosquotedNov2 /aakashgupta/status/2117160783960564185; cinema-seat-viewconceptNov9 /aakashgupta/status/2119754122123747799; AIgamecostwarningOct12 /aakashgupta/status/2109529247467639147 isnewscommentarynotverifiedbudget. Nooriginalgameproposal."
+      ],
+      "actual": "Main Posts inspected past Oct 9; newest visible Nov 10. Replies not exhaustive.",
+      "actual_raw": "832 distinct rendered profile entries including older posts; main profile traversed Nov10 through Oct8, recent segment recaptured after runtime timeout"
+    }
+  ],
+  "coverage_summary": {
+    "attempted": 38,
+    "visible_month_reached_or_query_exhausted": 36,
+    "subscriber_content_partial": 1,
+    "inactive_empty_profile_access_limited": 1,
+    "all_posts_and_replies_exhaustively_covered": false,
+    "limitations": "X search intermittent failures. Most accounts main Posts profile only, replies not exhaustive. McKay index sparse; hidden/deleted posts inaccessible. Shreyas subscriber post hidden. April inactive profile empty. Source trails and supplemental searches described per account."
+  },
+  "report": "research/x-ideas/2026-11-10-builders-and-distribution.md",
+  "candidates": [
+    {
+      "id": "P020",
+      "slug": "artwork-proof-approval",
+      "status": "investigate",
+      "rank": 1,
+      "next_evidence": "Compare actual shop workflows and existing ₹499 offers; measure revision/chasing/reprint costs; seek paid trial. No build selected.",
+      "status_updated": "2026-11-11",
+      "decision_reason": "User agrees target is shops using WhatsApp/email. Deeper check found India-facing ₹499/month suites and an advertised marketplace plus ERP; access, paid demand and price require validation."
+    },
+    {
+      "id": "P021",
+      "slug": "scheduled-agent-run-records",
+      "status": "investigate",
+      "rank": 2,
+      "next_evidence": "Real scheduled jobs versus Healthchecks; access hooks and two payments."
+    },
+    {
+      "id": "P022",
+      "slug": "ai-visibility-report",
+      "status": "test proposed",
+      "rank": 3,
+      "next_evidence": "Confirm API entitlements and measurement; two agency purchases and repeat request."
+    },
+    {
+      "id": "P023",
+      "slug": "training-video-questions",
+      "status": "test proposed",
+      "rank": 4,
+      "next_evidence": "Three real trainer cohorts, two payments and a changed follow-up action."
+    },
+    {
+      "id": "P024",
+      "slug": "verified-workflow-directory",
+      "status": "watch",
+      "rank": 5,
+      "next_evidence": "Repeat readership, relevant opted-in audience and paid sponsor pilot."
+    }
+  ]
+}

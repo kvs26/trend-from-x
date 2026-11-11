@@ -1,6 +1,6 @@
 # X account watchlist
 
-The complete X Idea Scout inventory: **70 people across six categories**. At the start of a research run, show each category with its meaning and current account count and let the user select one or more, or all categories. Inspect every account in the selected categories individually in the order below. The [research playbook](research-playbook.md) defines coverage, evidence, and reporting; descriptions here explain what kinds of leads an account may provide, not what it must post in every run.
+The complete X Idea Scout inventory: **70 people across six categories**. At the start of a research run, show each category with its meaning and current account count and let the user select one or more, or all categories. The menu also includes Free X search, which can be selected alone or with categories. Inspect every account in selected categories individually in the order below; free search alone does not require this inventory to be scanned. The [research playbook](research-playbook.md) defines coverage, evidence, and reporting; descriptions here explain what kinds of leads an account may provide, not what it must post in every run.
 
 The user approved the original 50-account draft and requested 20 additions to category 6 on 2026-11-10. The original accounts were researched on 2026-11-06; identity and context research for the additions was performed on 2026-11-10. This is a curated starting set, not an objective ranking or an audit of activity, business results, or earnings. Verify current identities and post dates during each research pass.
 
@@ -14,6 +14,8 @@ The user approved the original 50-account draft and requested 20 additions to ca
 | 4. Founders of AI building platforms | 27–30 | 4 | People behind platforms such as Replit, Lovable, Bolt, and Vercel; useful for discovering platform changes and customer projects. |
 | 5. Developer problems and workflow friction | 31–40 | 10 | Developers discussing bugs, repetitive work, costly tools, and frustrating workflows that a useful product might improve. |
 | 6. Startup discovery, customer insight, and distribution | 41–70 | 30 | Business interviewers, startup curators, and growth specialists sharing business stories, buyer needs, and ways products reach customers. |
+
+**7. Free X search — no fixed account count:** Search across X for relevant problems, launches, results, and conversations beyond the curated accounts. This is a research option, not a seventh account category. It can be selected alone or with any categories; "All watchlist categories" covers the six categories above, with free search included when also selected.
 
 ## 1. Major tech and AI voices
 
